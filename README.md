@@ -1,1 +1,1 @@
-zatím dobrý
+This is my first file describing my first project.
