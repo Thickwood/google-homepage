@@ -1,2 +1,1 @@
-# google-homepage
-https://zandavak.wordpress.com
+zatím dobrý
